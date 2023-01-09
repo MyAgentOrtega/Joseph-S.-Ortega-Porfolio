@@ -1,0 +1,209 @@
+* {
+    box-sizing: border-box;
+    /* padding: 0;
+    margin: 0; */
+}
+
+body    {
+    background-color: rgb(107, 133, 171);
+}
+
+#header  {
+    display:flex;
+    padding: 15px;
+    justify-content: space-between;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(https://w0.peakpx.com/wallpaper/546/780/HD-wallpaper-neon-skyscrapers-silhouettes-blue-light-lines-skyscrapers-architecture-concepts-blue-construction-background.jpg);
+    color: #ffffff;
+}
+
+.header h1  {
+    display: inline-block;
+    font-size: 45px;
+}
+#feature-project {
+    width:95%;
+    
+  }
+  
+.header h1 .Joseph {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: #ffffff;
+    margin-left: 100px;
+    margin: top 50%;   
+}
+
+.header h1 .Ortega {
+    color: #ffffff;
+}
+
+.bio_pic {
+    display: inline inline-flex;
+    width: 180px;
+    height: auto;
+    float: left;
+    border: solid 3.5px;
+    margin-right: 20px;
+}
+.project-container {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
+  
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 5%;
+    width: 60%;
+    color: #ffffff;
+  }
+
+  .side-bar{
+    width:15%;
+    border-right:2px solid black;
+  }
+  .section-content{
+    width:80%
+  }
+  .projects {
+    display: flex;
+    width: 44%;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: flex-end; */
+    border: 1px solid black;
+    margin:1%;
+    padding:1%;
+    position: relative;
+    border-radius: 7px;
+    ;
+    
+  }
+  .project-container {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
+  .project-screenshot{
+    width:99%;
+    width:  350px;
+    height: 350px;
+    object-fit: cover;
+    /* margin-left: 130px; */
+    border: 10px double #090909;
+  }
+  img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+
+  .page-section {
+    display: flex; 
+    margin:1%;
+    padding:2%;
+    /* flex-direction: column;
+    justify-content: left;
+    border: 5px solid black; */
+  }
+.contact {
+display: flex
+flex-direction: table-column;
+
+}
+/* .header nav {
+    padding-top: 15px;
+    margin-right:60px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+} */
+
+/* nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 5%;
+    width: 10%;
+}
+
+.header nav ul {
+    list-style-type: none;
+
+}
+
+.header nav ul li {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-left: 40px;
+    text-decoration: underline
+    
+} */ 
+/* .construction_images {
+    margin:auto
+}
+
+.denver_construction {
+    height: 725px;
+    width: 100%;
+    margin-bottom: 0px;
+    background-image: url("https://images.hdqwalls.com/download/denver-city-in-colorado-wu-1920x1080.jpg");
+    background-size: cover;
+    background-position: center;
+    border: 3.5px solid #090909;
+}
+
+ #about_me {
+    display: inline-block;
+    font-size: 45px;
+    padding-left: 20px;
+}
+#construction_management { */
+
+/* }
+img {
+    width:  350px;
+    height: 350px;
+    object-fit: cover;
+    /* margin-left: 130px; 
+    border: 3.5px solid #090909;
+} */
+
+/* .construction_images{
+    height: fit-content;
+    width: fit-content;
+    margin-top: 25px;
+    text-align: center;
+    justify-items:
+    
+ }
+.row picture {
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+a:hover {
+background-color: #4c70d9;
+} 
+
+.footer {
+    display: inline-flex
+    padding 5px;
+    margin: 35px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    float: center;
+    font-size: 20px;
+}
+
+.footer h2 {
+    font-size: 20px;
+    text-align: center;
+} */
