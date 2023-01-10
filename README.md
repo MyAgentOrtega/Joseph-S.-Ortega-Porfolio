@@ -1,14 +1,15 @@
 # Joseph S. Ortega Portfolio <br/>
 
 ### <u> Description </u>
-This is a .CSS linked .HTML that is displaying a picture of myself, navigatable links, about me, work, contact me, and resume section. 
+This is a .CSS linked .HTML that is displaying a picture of myself, navigatable links, about me, work, contact, and resume section. 
 
 ### <u> Notes </u>
-- Placeholder images are displayed    
+- Placeholder images are currently displayed    
 - HTML was semantically organized and syntax was updated. 
 
 
 ### <u> Screenshot </u>
+![Horiseon Website Screenshot](./Assets/JSO%20Portfolio.jpg)
 <br /><br />
 
   
