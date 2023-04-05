@@ -71,6 +71,7 @@ nav {
   }
   .projects {
     display: flex;
+    justify-content: ;
     width:
     border: 1px solid black;
     margin:1%;
@@ -94,6 +95,7 @@ nav {
   img {
     overflow-clip-margin: content-box;
     overflow: clip;
+    postion
 }
 
   .page-section {
