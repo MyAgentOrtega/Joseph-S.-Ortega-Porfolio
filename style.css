@@ -25,6 +25,11 @@ body    {
     
   }
   
+  .small-images {
+    width: 450px;
+    height: 300px;
+  }
+
 .header h1 .Joseph {
     display: flex;
     flex-direction: row;
@@ -71,7 +76,7 @@ nav {
   }
   .projects {
     display: flex;
-    justify-content: ;
+    justify-content: center;
     width:
     border: 1px solid black;
     margin:1%;
