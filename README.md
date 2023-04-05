@@ -9,7 +9,7 @@ This is a .CSS linked .HTML that is displaying a picture of myself, navigatable 
 
 
 ### <u> Screenshot </u>
-![Horiseon Website Screenshot](./Assets/JSO%20Portfolio.jpg)
+![Portfolio Screenshot](./Assets/JSO%20Portfolio.jpg)
 <br /><br />
 
   

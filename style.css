@@ -3,7 +3,7 @@
 }
 
 body    {
-    background-color: rgb(107, 133, 171);
+    background-color: rgb(89, 138, 212);
 }
 
 #header  {
@@ -63,15 +63,15 @@ nav {
   }
 
   .side-bar{
-    width:15%;
+    width:20%;
     border-right:2px solid black;
   }
   .section-content{
-    width:80%
+    width:100%
   }
   .projects {
     display: flex;
-    width: 44%;
+    width: 100%;
     border: 1px solid black;
     margin:1%;
     padding:1%;
@@ -86,11 +86,9 @@ nav {
     flex-wrap: wrap;
   }
   .project-screenshot{
-    width:99%;
-    width:  350px;
+    width:100%;
     height: 350px;
     object-fit: cover;
-    border: 10px double #090909;
   }
 
   img {
@@ -110,9 +108,21 @@ display: flex;
 flex-direction: table-column;
 font-size: 20px;
 }
-
+article {
+  z-index: auto;
+  position: absolute;
+  bottom: 25px;
+left: 0px;
+}
+.biop {
+  margin-left: 25px;
+}
+h3 {
+  text-decoration: red;
+  color: rgb(204, 11, 11);
+}
 @media screen and (max-width: 600px) {
-  .topnav a {
+  nav a {
     float: none;
     width: 100%;
   }
