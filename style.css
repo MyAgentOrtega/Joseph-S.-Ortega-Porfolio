@@ -79,7 +79,6 @@ nav {
   .projects {
     display: flex;
     justify-content: cen;
-    width:;
     border: 1px solid black;
     margin:1%;
     padding:1%;
