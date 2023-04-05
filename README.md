@@ -1,22 +1,22 @@
-# Joseph S. Ortega Portfolio <br/>
+# Portfolio - Joseph S. Ortega  <br/>
 
 ### <u> Description </u>
 This is a .CSS linked .HTML that is displaying a picture of myself, navigatable links, about me, work, contact, and resume section. 
 
 ### <u> Notes </u>
-- Placeholder images are currently displayed    
-- HTML was semantically organized and syntax was updated. 
+- Updated on 4-5-2023 (images rescaled
+- Added readability for smaller and larger screens
 
 
 ### <u> Screenshot </u>
-![Portfolio Screenshot](./Assets/JSO%20Portfolio.jpg)
+![Portfolio Screenshot](./Assets/images/Portfolio%20SS.jpeg)
 <br /><br />
 
   
     
 ### <u> Deployable Link to Website </u>
 
-https://myagentortega.github.io/Joseph-S.-Ortega---Porfolio/
+https://myagentortega.github.io/Joseph-S.-Ortega-Porfolio/
 ### <u> Support: </u>  
 
 - [MDN](https://developer.mozilla.org/en-US/)  
